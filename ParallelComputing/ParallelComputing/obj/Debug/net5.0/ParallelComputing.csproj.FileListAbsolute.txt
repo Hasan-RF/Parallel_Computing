@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ParallelComputing.exe
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ParallelComputing.deps.json
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ParallelComputing.runtimeconfig.json
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ParallelComputing.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ParallelComputing.dll
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ref\ParallelComputing.dll
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\bin\Debug\net5.0\ParallelComputing.pdb
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.AssemblyInfo.cs
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.dll
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ref\ParallelComputing.dll
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.pdb
+C:\Users\MSI\source\repos\ParallelComputing\ParallelComputing\obj\Debug\net5.0\ParallelComputing.genruntimeconfig.cache
